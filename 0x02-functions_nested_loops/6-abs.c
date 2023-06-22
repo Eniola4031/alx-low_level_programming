@@ -1,9 +1,10 @@
 #include "main.h"
 /**
-* 
-* Return: always 0
+ * _abs - absolute value of an integer
+ *
+ * Return: always 0
 */
-int _abs(int i)
+int _abs(int)
 {
 	if (i >= 0)
 	{
