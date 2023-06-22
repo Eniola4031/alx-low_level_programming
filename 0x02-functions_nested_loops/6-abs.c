@@ -8,11 +8,11 @@
 int _abs(int c)
 {
 	if (c < 0)
-	{
-		int i;
-		i = c * -1;
-		return (i);
+	{	
+	int i;
+	i = c * -1;
+	return (i);
 	}
-		return (c);
+	return (c);
 
 }
